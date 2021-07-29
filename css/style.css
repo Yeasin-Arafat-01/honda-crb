@@ -6,3 +6,26 @@
     width: 149px;
     height: 149px;
 }
+.faq-images img{
+    width: 424px;
+    height: 397px;
+}
+
+.honda-custom-btn{
+    background-color: #E76F51;
+    color: white;
+    border-radius: 5px;
+    padding: 15px;
+    width: 160px;
+    height: 57px;
+}
+.fa-star{
+    color: #E77C40;
+}
+.cbr-color{
+    color:#E77C40 ;
+}
+/* .imag-radius img{
+    border: 1px solid #BDBDBD;
+    border-radius: 5px;
+} */
